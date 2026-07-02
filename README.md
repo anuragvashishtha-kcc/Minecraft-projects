@@ -49,4 +49,4 @@ Feel free to open an issue or submit a pull request.
 
 If you enjoy this project, consider giving the repository a ⭐ on GitHub!
 
-It helps others discover the mod and motivates future updates.# Minecraft-projects
+It helps others discover the mod and motivates future updates.
